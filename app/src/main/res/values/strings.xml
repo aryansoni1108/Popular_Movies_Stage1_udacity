@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">popular movies</string>
+
+    <!-- Preference items -->
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+    <string name="pref_sort_vote_avg_desc_key">SORT_VOTE_AVERAGE_DESC</string>
+    <string name="pref_sort_pop_desc_key">SORT_POPULARITY_DESC</string>
+
+
+    <string name="popular_sort">popular</string>
+
+    <string name="tmdb_sort_vote_avg_desc">top_rated</string>
+    <string name="need_internet_connect">zNEed internet connection</string>
+    <string name="key_themoviedb"></string>
+    <string name="popular_movies">Popular movies</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="saved_instance_movies">movie_saved_instance_state</string>
+    <string name="ratings">Ratings:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="synopsis_">Synopsis:</string>
+    <string name="parcel">parcel_for_data</string>
+</resources>
